@@ -1,0 +1,193 @@
+{
+	"description": "HP Codewars <year> solutions in D.",
+	"license": "proprietary",
+	"authors": [
+		"Reece Jones"
+	],
+	"targetType": "executable",
+	"copyright": "Copyright © 2019, Reece Jones",
+	"name": "codewars-2012",
+	"dependencies": {
+		"codewars-util": {
+			"path": "codewars-util",
+			"version": "~master"
+		}
+	},
+	"configurations": [
+		{
+			"name": "prob00",
+			"targetName": "prob00",
+			"versions": [
+				"prob00"
+			]
+		},
+		{
+			"name": "prob01",
+			"targetName": "prob01",
+			"versions": [
+				"prob01"
+			]
+		},
+		{
+			"name": "prob02",
+			"targetName": "prob2",
+			"versions": [
+				"prob02"
+			]
+		},
+		{
+			"name": "prob03",
+			"targetName": "prob03",
+			"versions": [
+				"prob03"
+			]
+		},
+		{
+			"name": "prob04",
+			"targetName": "prob04",
+			"versions": [
+				"prob04"
+			]
+		},
+		{
+			"name": "prob05",
+			"targetName": "prob05",
+			"versions": [
+				"prob05"
+			]
+		},
+		{
+			"name": "prob06",
+			"targetName": "prob06",
+			"versions": [
+				"prob06"
+			]
+		},
+		{
+			"name": "prob07",
+			"targetName": "prob07",
+			"versions": [
+				"prob07"
+			]
+		},
+		{
+			"name": "prob08",
+			"targetName": "prob08",
+			"versions": [
+				"prob08"
+			]
+		},
+		{
+			"name": "prob09",
+			"targetName": "prob09",
+			"versions": [
+				"prob09"
+			]
+		},
+		{
+			"name": "prob10",
+			"targetName": "prob10",
+			"versions": [
+				"prob10"
+			]
+		},
+		{
+			"name": "prob11",
+			"targetName": "prob11",
+			"versions": [
+				"prob11"
+			]
+		},
+		{
+			"name": "prob12",
+			"targetName": "prob12",
+			"versions": [
+				"prob12"
+			]
+		},
+		{
+			"name": "prob13",
+			"targetName": "prob13",
+			"versions": [
+				"prob13"
+			]
+		},
+		{
+			"name": "prob14",
+			"targetName": "prob14",
+			"versions": [
+				"prob14"
+			]
+		},
+		{
+			"name": "prob15",
+			"targetName": "prob15",
+			"versions": [
+				"prob15"
+			]
+		},
+		{
+			"name": "prob16",
+			"targetName": "prob16",
+			"versions": [
+				"prob16"
+			]
+		},
+		{
+			"name": "prob17",
+			"targetName": "prob17",
+			"versions": [
+				"prob17"
+			]
+		},
+		{
+			"name": "prob18",
+			"targetName": "prob18",
+			"versions": [
+				"prob18"
+			]
+		},
+		{
+			"name": "prob19",
+			"targetName": "prob19",
+			"versions": [
+				"prob19"
+			]
+		},
+		{
+			"name": "prob20",
+			"targetName": "prob20",
+			"versions": [
+				"prob20"
+			]
+		},
+		{
+			"name": "prob21",
+			"targetName": "prob21",
+			"versions": [
+				"prob21"
+			]
+		},
+		{
+			"name": "prob21",
+			"targetName": "prob21",
+			"versions": [
+				"prob21"
+			]
+		},
+		{
+			"name": "prob22",
+			"targetName": "prob22",
+			"versions": [
+				"prob22"
+			]
+		},
+		{
+			"name": "prob23",
+			"targetName": "prob23",
+			"versions": [
+				"prob23"
+			]
+		}
+]
+}
